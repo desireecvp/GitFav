@@ -6,7 +6,7 @@
 
 ![Favoritos Github vazio](image-2.png)
 
-✨ Clique para acessar o projeto 
+✨ Clique para acessar o projeto -> https://desireecvp.github.io/GitFav/
 
 <br>
 
